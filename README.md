@@ -1,7 +1,5 @@
 # user-pass-create-in-ubuntu
 
-Sure, Jaya! Here's a clean, professional-style `README.md` format that documents the steps to create a user in Ubuntu 24.04 and enable password-based SSH access. Perfect for teams or sharing in a repo 👇
-
 ---
 
 # 🔐 User Setup with Password Access on Ubuntu 24.04
