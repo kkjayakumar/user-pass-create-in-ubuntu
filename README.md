@@ -18,14 +18,14 @@ This guide outlines the steps to create a new system user on an Ubuntu 24.04 EC2
 
 ## 👤 Create a New User
 
-Run the following to create a user named `redis` with a predefined password:
+Run the following to create a user named `username` with a predefined password:
 
 ```bash
-sudo adduser --disabled-password --gecos "" redis
-echo "redis:Redis@Strong123" | sudo chpasswd
+sudo adduser --disabled-password --gecos "" username
+echo "username:*************" | sudo chpasswd
 ```
 
-> 🔐 Replace `Redis@Strong123` with a strong password of your choice.
+> 🔐 Replace `************` with a strong password of your choice.
 
 ---
 
